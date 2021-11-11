@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=City
+comment1.params=name\ value
+comment1.target=City(java.lang.String,\ int)
+comment10.params=otherObject
+comment10.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=
+comment4.target=int\ getInitialValue()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ reset()
+comment7.params=amount
+comment7.target=void\ changeValue(int)
+comment8.params=other
+comment8.target=int\ compareTo(City)
+comment9.params=
+comment9.target=int\ hashCode()
+numComments=11
